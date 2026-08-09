@@ -39,13 +39,13 @@ This bridges technical security knowledge with governance and risk management th
 
 ## Project Structure
 
-- 01-system-overview.md
-- 02-security-categorization.md
-- 03-control-selection.md
-- 04-assessment-plan.md
-- 05-findings-summary.md
-- 06-ato-recommendation.md
-- 07-continuous-monitoring.md
+1. [System Overview](01-system-overview.md)
+2. [Security Categorization](02-security-categorization.md)
+3. [Control Selection](03-control-selection.md)
+4. [Assessment Plan](04-assessment-plan.md)
+5. [Findings Summary](05-findings-summary.md)
+6. [ATO Recommendation](06-ato-recommendation.md)
+7. [Continuous Monitoring](07-continuous-monitoring.md)
 
 ---
 
